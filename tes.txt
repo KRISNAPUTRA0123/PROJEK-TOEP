@@ -2,4 +2,9 @@ hallo gaes
 tes 1 tes 2 tes 3
 waduw
 ndak bahaya tah
-wadidwadwdwdwdasd
+wadidwadwdwdwdasd [fitur 1]
+tes 1
+tes 2
+tes 3
+wadidaw [fitur 2]
+
